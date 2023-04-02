@@ -1,0 +1,21 @@
+2023-04-03 01:38:23.768629 - Initialized conversion of CBT642
+2023-04-03 01:38:23.930964 - Received CBT.V504.FILE642.PDS from FILE642.XMI 
+2023-04-03 01:38:23.934341 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:38:23.935581 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:38:23.936811 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$$NOTE2
+2023-04-03 01:38:23.937916 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$$NOTE3
+2023-04-03 01:38:23.939161 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$PDSLOAD
+2023-04-03 01:38:23.940172 - Found $README.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/$README
+2023-04-03 01:38:23.941271 - Found @FILE642.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/@FILE642
+2023-04-03 01:38:23.942473 - Found AFCLOGR1.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/AFCLOGR1
+2023-04-03 01:38:23.943519 - Found AFCLOGSC.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/AFCLOGSC
+2023-04-03 01:38:23.945053 - Found AFCSMP1.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/AFCSMP1
+2023-04-03 01:38:23.946139 - Found ASMINFO.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/ASMINFO
+2023-04-03 01:38:23.947139 - Found ASMJCL.jcl (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/ASMJCL
+2023-04-03 01:38:23.948074 - Found BR2JMP.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/BR2JMP
+2023-04-03 01:38:23.949007 - Found CLEAR.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/CLEAR
+2023-04-03 01:38:23.949923 - Found EXECJCL.jcl (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/EXECJCL
+2023-04-03 01:38:23.950873 - Found INR.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/INR
+2023-04-03 01:38:23.952063 - Found OUTR.txt (text/plain) in CBT.V504.FILE642.PDS, moved to PDS/OUTR
+2023-04-03 01:38:23.958128 - Found PDSLOAD.xmi (application/xmit) in CBT.V504.FILE642.PDS
+2023-04-03 01:38:23.966468   - Received RECFM=U data, stored XMIT file as CBT642/PDSLOAD.xmi
