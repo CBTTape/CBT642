@@ -1,21 +1,21 @@
-2025-04-13 21:28:50.389079 - Received CBT.V508.FILE642.PDS from FILE642.XMI 
-2025-04-13 21:28:50.390557 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:28:50.390684 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE1
-2025-04-13 21:28:50.390771 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE2
-2025-04-13 21:28:50.390833 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE3
-2025-04-13 21:28:50.390892 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$PDSLOAD
-2025-04-13 21:28:50.390958 - Found $README.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$README
-2025-04-13 21:28:50.391029 - Found @FILE642.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/@FILE642
-2025-04-13 21:28:50.391143 - Found AFCLOGR1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCLOGR1
-2025-04-13 21:28:50.391227 - Found AFCLOGSC.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCLOGSC
-2025-04-13 21:28:50.391375 - Found AFCSMP1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCSMP1
-2025-04-13 21:28:50.391443 - Found ASMINFO.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/ASMINFO
-2025-04-13 21:28:50.391504 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/ASMJCL
-2025-04-13 21:28:50.391562 - Found BR2JMP.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/BR2JMP
-2025-04-13 21:28:50.391626 - Found CLEAR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/CLEAR
-2025-04-13 21:28:50.391685 - Found EXECJCL.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/EXECJCL
-2025-04-13 21:28:50.391743 - Found INR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/INR
-2025-04-13 21:28:50.391800 - Found OUTR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/OUTR
-2025-04-13 21:28:50.391862 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE642.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-13 21:28:50.398600 - Received WSBG.LOAD from PDSLOAD.xmi 
-2025-04-13 21:28:50.399018 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-15 04:11:31.841459 - Received CBT.V508.FILE642.PDS from FILE642.XMI 
+2025-04-15 04:11:31.842840 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:11:31.843380 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE1
+2025-04-15 04:11:31.843588 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE2
+2025-04-15 04:11:31.843787 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$$NOTE3
+2025-04-15 04:11:31.843989 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$PDSLOAD
+2025-04-15 04:11:31.844160 - Found $README.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/$README
+2025-04-15 04:11:31.844444 - Found @FILE642.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/@FILE642
+2025-04-15 04:11:31.844899 - Found AFCLOGR1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCLOGR1
+2025-04-15 04:11:31.845108 - Found AFCLOGSC.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCLOGSC
+2025-04-15 04:11:31.845777 - Found AFCSMP1.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/AFCSMP1
+2025-04-15 04:11:31.845981 - Found ASMINFO.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/ASMINFO
+2025-04-15 04:11:31.846184 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/ASMJCL
+2025-04-15 04:11:31.846522 - Found BR2JMP.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/BR2JMP
+2025-04-15 04:11:31.846680 - Found CLEAR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/CLEAR
+2025-04-15 04:11:31.846834 - Found EXECJCL.jcl (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/EXECJCL
+2025-04-15 04:11:31.846985 - Found INR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/INR
+2025-04-15 04:11:31.847134 - Found OUTR.txt (text/plain) in CBT.V508.FILE642.PDS, moved to PDS/OUTR
+2025-04-15 04:11:31.847528 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE642.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 04:11:31.852944 - Received WSBG.LOAD from PDSLOAD.xmi 
+2025-04-15 04:11:31.853456 - Found PDSLOAD.bin (application/octet-stream) in WSBG.LOAD, moved to PDSLOAD/PDSLOAD
